@@ -1,4 +1,4 @@
-# Version 1.1
+# Version 1.2
 
 # This is a Repo used to Demo TeamCity xMatters Notifications
 
