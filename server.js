@@ -1,4 +1,4 @@
-// Version 1.6
+// Version 1.7
 
 var http = require('http')
 
